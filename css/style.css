@@ -50,6 +50,11 @@ body {
     margin: auto;
 }
 
+.logo {
+    width: 30px;
+
+}
+
 .section {
     padding-top: 64px;
     padding-bottom: 92px;
