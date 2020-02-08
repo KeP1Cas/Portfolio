@@ -196,6 +196,7 @@ body {
     display: flex;
     align-items: flex-start;
     justify-content: space-between;
+    margin-right: 30px;
 }
 
 .project__text{
@@ -206,6 +207,14 @@ body {
 
 .project__image {
     border-radius: 10px;
+}
+.witcher{
+    width: 350px;
+    height: 250px;
+}
+
+.pizza{
+
 }
 
 .project__title{
