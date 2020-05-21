@@ -164,7 +164,7 @@ body {
 }
 
 .features-item {
-    flex-basis: 30%;
+    width: 45%;
     margin-bottom: 63px;
 }
 
@@ -209,12 +209,17 @@ body {
     border-radius: 10px;
 }
 .witcher{
-    width: 350px;
-    height: 250px;
+    width: 25rem;
+}
+.micprom-img {
+    width: 25rem;
 }
 
 .pizza{
-
+    width: 25rem;
+}
+.delivery-img{
+    width: 25rem;
 }
 
 .project__title{
